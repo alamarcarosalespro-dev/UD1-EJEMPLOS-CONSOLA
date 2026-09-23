@@ -1,4 +1,8 @@
 <Solution>
   <Project Path="UD1-EJ1-ARRAY/UD1-EJ1-ARRAY.csproj" Id="2ec3b9c4-4e1d-4d96-bb5c-a56f1f253917" />
   <Project Path="UD1-EJ2-CLASE/UD1-EJ2-CLASE.csproj" Id="bd348a7d-a5ca-4202-a892-87f15b2541f4" />
+  <Project Path="UD1-EJ3-HERENCIA/UD1-EJ3-HERENCIA.csproj" Id="e07dc7a0-9a92-4096-acc4-d28f6a96fc1c" />
+  <Project Path="UD1-Ej4-Interfaces/UD1-EJ4-INTERFACES.csproj" Id="037f2562-9429-4951-bdec-ba1100f71a2d" />
+  <Project Path="UD1-EJ5-EXCEPCIONES/UD1-EJ5-EXCEPCIONES.csproj" Id="c58d8b45-a0a6-49a3-a7de-a620bd840141" />
+  <Project Path="UD1-EJ6-LISTAS/UD1-EJ6-LISTAS.csproj" Id="cd874896-4bf3-4fd2-a472-92b80b6b8f20" />
 </Solution>
